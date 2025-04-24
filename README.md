@@ -13,7 +13,6 @@ make a new environment(recommended) and run...
 ### Dataset used - 
 https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
-
 env\Scripts\activate
 python manage.py runserver
 
